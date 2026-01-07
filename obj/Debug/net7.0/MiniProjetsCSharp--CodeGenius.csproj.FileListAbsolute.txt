@@ -1,0 +1,15 @@
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.AssemblyInfoInputs.cache
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.AssemblyInfo.cs
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.csproj.CoreCompileInputs.cache
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.sourcelink.json
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\bin\Debug\net7.0\MiniProjetsCSharp--CodeGenius.exe
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\bin\Debug\net7.0\MiniProjetsCSharp--CodeGenius.deps.json
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\bin\Debug\net7.0\MiniProjetsCSharp--CodeGenius.runtimeconfig.json
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\bin\Debug\net7.0\MiniProjetsCSharp--CodeGenius.dll
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\bin\Debug\net7.0\MiniProjetsCSharp--CodeGenius.pdb
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.dll
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\refint\MiniProjetsCSharp--CodeGenius.dll
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.pdb
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\MiniProjetsCSharp--CodeGenius.genruntimeconfig.cache
+C:\Users\Ing Ivenson\RiderProjects\MiniProjetsCSharp--CodeGenius\obj\Debug\net7.0\ref\MiniProjetsCSharp--CodeGenius.dll
