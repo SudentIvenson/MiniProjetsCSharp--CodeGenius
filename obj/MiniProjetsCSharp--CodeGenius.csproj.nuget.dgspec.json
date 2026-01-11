@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ing Ivenson\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj": {}
+    "C:\\Users\\Dev.Lonal\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ing Ivenson\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj": {
+    "C:\\Users\\Dev.Lonal\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ing Ivenson\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj",
+        "projectUniqueName": "C:\\Users\\Dev.Lonal\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj",
         "projectName": "MiniProjetsCSharp--CodeGenius",
-        "projectPath": "C:\\Users\\Ing Ivenson\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj",
-        "packagesPath": "C:\\Users\\Ing Ivenson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ing Ivenson\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\obj\\",
+        "projectPath": "C:\\Users\\Dev.Lonal\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\MiniProjetsCSharp--CodeGenius.csproj",
+        "packagesPath": "C:\\Users\\Dev.Lonal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev.Lonal\\RiderProjects\\MiniProjetsCSharp--CodeGenius\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ing Ivenson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Dev.Lonal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -54,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

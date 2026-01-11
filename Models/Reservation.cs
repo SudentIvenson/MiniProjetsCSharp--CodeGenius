@@ -3,7 +3,7 @@
 using System;
 
 public enum ReservationStatus { Confirmed, Cancelled }
-
+// creation class Resrvation
 public class Reservation
 {
     public Guid Id { get; init; }
@@ -13,7 +13,7 @@ public class Reservation
     public DateTime End { get; set; }
     public ReservationStatus Status { get; set; } = ReservationStatus.Confirmed;
     public string? Notes { get; set; }
-
+//  Constructeur pour la class Reservation 
     public Reservation(Guid ressourceId, string clientId, DateTime start, DateTime end, string? notes = null)
     {
         Id = Guid.NewGuid();

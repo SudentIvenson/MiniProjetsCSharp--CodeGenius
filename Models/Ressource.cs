@@ -1,7 +1,7 @@
-﻿namespace DefaultNamespace;
+﻿namespace DefaultNamespace; 
 
 using System;
-
+//  
 public class Ressource
 {
     public Guid Id { get; init; }

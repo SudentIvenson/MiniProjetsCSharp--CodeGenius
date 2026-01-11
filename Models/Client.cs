@@ -1,7 +1,7 @@
 ﻿namespace DefaultNamespace;
 
 using System;
-
+ // Creation de class client
 public class Client
 {
     public string Id { get; init; }
@@ -9,6 +9,8 @@ public class Client
     public string LastName { get; set; }
     public string? Email { get; set; }
     public string? Phone { get; set; }
+    
+    // Contructeur  pour la class Client
 
     public Client(string firstName, string lastName, string? email = null, string? phone = null, string? id = null)
     {
@@ -18,7 +20,7 @@ public class Client
         Phone = phone;
         Id = id ?? GenerateId(firstName, lastName);
     }
-
+ // Methode pour genere  les id automatique
     private static string GenerateId(string firstName, string lastName)
     {
         var f = string.IsNullOrWhiteSpace(firstName) ? 'X' : char.ToUpper(firstName[0]);
